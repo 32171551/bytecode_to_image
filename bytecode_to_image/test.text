@@ -1,1 +1,8 @@
 바이트 코드를 이미지로 변화
+순서:
+1. get_bytecode.py
+바이트 코드를 가지고 옴
+2. bytecode_to_dec.py
+바이트 코드를 decimal로 변경
+3. list_to_nparry.py
+리스트를 nparray로 변경
