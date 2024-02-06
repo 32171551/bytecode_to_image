@@ -6,3 +6,5 @@
 바이트 코드를 decimal로 변경
 3. list_to_nparry.py
 리스트를 nparray로 변경
+4. get_data_using_ChromeDriver.py
+크롬드라이버를 이용하여 바이트 코드 수집
