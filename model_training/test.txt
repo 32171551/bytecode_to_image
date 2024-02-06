@@ -1,1 +1,4 @@
 모델 학습 및 생성 데이터 비교
+f1score.ipynb
+학습된 모델의 f1 score을 계산
+img_compare.ipynb
